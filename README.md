@@ -1,4 +1,4 @@
-By the end of this course, you will have built a fully functional web app and deployed it to production. You can view the live version of the application here: [Live Application](https://d3ccm9i4lbf8xx.cloudfront.net/).
+
 
 # React Full-Stack Development with CI/CD
 
